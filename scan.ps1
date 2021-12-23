@@ -346,4 +346,4 @@ function Invoke-Vulmap {
     Write-Host 'Done.'
 }
 
-Invoke-Vulmap -Mode CollectInventory -InventoryOutFile pc0001.json
+Invoke-Vulmap -Mode CollectInventory
